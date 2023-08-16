@@ -9,6 +9,7 @@ counter.forEach((count) => {
             count.classList.add("done");
             result = 0;
             count.innerHTML = "0";
+            
         }
     };
 });
