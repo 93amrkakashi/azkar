@@ -4,6 +4,8 @@
 // let dec = 0;
 
 
+
+
 //     counter.forEach((count) => {
 //         console.log(this);
 //         count.onclick = function () {
